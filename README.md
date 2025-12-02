@@ -181,5 +181,3 @@ C:.
 * O cliente decodifica a resposta e apresenta apenas o resultado final.
 * É possível rodar múltiplas instâncias de um mesmo serviço para demonstrar **balanceamento de carga**.
 
-```
-```
